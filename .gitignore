@@ -6,5 +6,5 @@ __pycache__/
 # Ignore virtual environment folder
 python_venv/
 
-
+sync.bat
 
