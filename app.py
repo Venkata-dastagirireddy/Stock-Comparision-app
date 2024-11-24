@@ -1,8 +1,9 @@
 import streamlit as st
 st.set_page_config(
-    page_title="Stock Hub",
+    page_title="Stock Comparision",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
+    page_icon = ":material/candlestick_chart:"
 )
 import pandas as pd
 import yfinance as yf
